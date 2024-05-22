@@ -1,0 +1,11 @@
+project/*
+
+# ignore ip folder except for the wrapper
+ip/*
+!ip/design_1/
+ip/design_1/*
+!ip/design_1/hdl/
+ip/design_1/hdl/*
+
+!*.vhd
+*.zip
