@@ -7,5 +7,10 @@ ip/design_1/*
 !ip/design_1/hdl/
 ip/design_1/hdl/*
 
+!ip/fifo_led_counter/
+ip/fifo_led_counter/*
+!ip/fifo_led_counter/hdl/
+ip/fifo_led_counter/hdl/*
+
 !*.vhd
 *.zip
